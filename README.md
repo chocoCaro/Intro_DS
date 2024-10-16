@@ -7,5 +7,5 @@
 
 ## Description
 Data is extracted from:
-- [Basketball Reference](https://www.basketball-reference.com/).
-- [NBA Players' Stats](https://www.nba.com/stats/players/traditional).
+- [Basketball Reference](https://www.basketball-reference.com/)
+- [NBA Players' Stats](https://www.nba.com/stats/players/traditional)
